@@ -1,0 +1,26 @@
+//fondo
+body {
+  background: url("https://images.pexels.com/photos/236817/pexels-photo-236817.jpeg?cs=srgb&dl=close-up-donuts-doughnuts-236817.jpg&fm=jpg")
+    no-repeat fixed;
+  background-size: 100% 100%;
+}
+
+.navbar {
+  background-color: rgba($color: #000000, $alpha: 0.7);
+
+  .logo {
+    margin: 0 0.5rem;
+    height: 32px;
+    width: 32px;
+  }
+}
+
+.title {
+  @import url("https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap");
+  color: #fff;
+  font-family: "Baloo Bhai", cursive;
+}
+
+.container {
+  padding-left: 4em;
+}

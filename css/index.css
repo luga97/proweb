@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap");
+body {
+  background: url("https://images.pexels.com/photos/236817/pexels-photo-236817.jpeg?cs=srgb&dl=close-up-donuts-doughnuts-236817.jpg&fm=jpg") no-repeat fixed;
+  background-size: 100% 100%; }
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.7); }
+  .navbar .logo {
+    margin: 0 0.5rem;
+    height: 32px;
+    width: 32px; }
+
+.title {
+  color: #fff;
+  font-family: "Baloo Bhai", cursive; }
+
+.container {
+  padding-left: 4em; }
